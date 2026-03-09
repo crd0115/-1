@@ -1,0 +1,9 @@
+pillow
+opencv-python
+numpy
+requests
+pandas
+easyocr
+torch
+torchvision
+dashscope
